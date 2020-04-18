@@ -1,1 +1,13 @@
 theme: jekyll-theme-cayman
+
+# Site settings
+title: wjm.terry's Blog                    # 你的博客网站标题
+SEOTitle: wjm.terry的博客 | wjm.terry's Blog   # SEO 标题
+description: "Less is more."         # 随便说点，描述一下
+
+# SNS settings      
+github_username: wjm3219     # 你的github账号
+# jianshu_username: e71990ada2fd  # 你的简书ID。
+
+# Build settings
+paginate: 10              # 一页你准备放几篇文章
